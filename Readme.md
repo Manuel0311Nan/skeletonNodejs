@@ -3,4 +3,4 @@
     <a href="https://www.mongodb.com/es" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-# Skeleton con Nodejs, Express y MongoDB
+# Skeleton with Nodejs, Express y MongoDB
